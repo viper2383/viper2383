@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @wiper3
+- 👋 Hi, I’m @w1per3
 - 👀 I’m interested in Cyberspace Security
 - 🌱 I’m currently learning CTF and coding
-- 💞️ I want to be a "CTF da lao"
+- 💞️ I want to be a "Security da lao"
 - 📚 I am studying at a 211 school in Guangzhou
 - 📫 How to reach me ？ QQ:2829483441
 - 💬 Ask me about ...
